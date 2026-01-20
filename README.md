@@ -24,4 +24,4 @@ The objective of this project was to simulate how a BizOps or Operations Analyti
 - All data and assumptions are hypothetical and intended to showcase analytical and presentation approach.
 
 ## Deliverable
-- `Uber_Eats_BizOps_Case_Study.pdf`: Executive-style presentation synthesizing findings and recommendations.
+- `UberEats Presentation - Budget&Merchants`: Executive-style presentation synthesizing findings and recommendations.
